@@ -1,20 +1,20 @@
-mapboxgl.accessToken = "pk.eyJ1Ijoic3VyeWFwcmFrYXNoZyIsImEiOiJjbTM0b3hmcXUwMjhoMmxzOXMyZ3QzZzV3In0.YhhvI2ASeIL5lHht44Nx5Q";
+mapboxgl.accessToken = "PLACE YOUR MAPBOX API KEY";
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
   enableHighAccuracy: true,
 });
 
-let virtualLocation; // Simulated user location
+let virtualLocation; 
 
 function successLocation(position) {
   const startLocation = [position.coords.longitude, position.coords.latitude];
-  virtualLocation = startLocation; // Set initial virtual location
+  virtualLocation = startLocation; 
   setupMap(startLocation);
 }
 
 function errorLocation() {
-  const fallbackLocation = [-2.24, 53.48]; // Default location
-  virtualLocation = fallbackLocation; // Set initial virtual location
+  const fallbackLocation = [-2.24, 53.48]; 
+  virtualLocation = fallbackLocation; 
   setupMap(fallbackLocation);
 }
 
@@ -41,36 +41,36 @@ function setupMap(center) {
   let steps = [];
   let userMarker = new mapboxgl.Marker({ color: "blue" }).setLngLat(center).addTo(map);
 
-  // Update user marker position
+
   function updateUserMarker(coords) {
     virtualLocation = coords;
     userMarker.setLngLat(coords);
     map.setCenter(coords);
   }
 
-  // Listen for route selection
+  
   directions.on("route", (e) => {
     if (e.route && e.route.length > 0) {
       const route = e.route[0];
       steps = route.legs[0].steps.map((step) => ({
         location: step.maneuver.location,
         instruction: step.maneuver.instruction,
-        streetName: step.name, // Extract the street name
+        streetName: step.name, 
       }));
 
-      // Extract unique street names
-      const streetNames = new Set(steps.map((step) => step.streetName).filter(Boolean)); // Filter out undefined names
+      
+      const streetNames = new Set(steps.map((step) => step.streetName).filter(Boolean)); 
 
       console.log("Route steps:", steps);
-      console.log("Street Names:", Array.from(streetNames)); // Convert Set to Array for display
+      console.log("Street Names:", Array.from(streetNames)); 
 
-      displayStreetNames(Array.from(streetNames)); // Display street names in UI
+      displayStreetNames(Array.from(streetNames)); 
     }
   });
 
-  // Check proximity to steps
+  
   function checkProximity() {
-    const thresholdDistance = 50; // in meters
+    const thresholdDistance = 50; 
     const matchingStep = steps.find((step) => {
       const distance = haversineDistance(virtualLocation, step.location);
       return distance < thresholdDistance;
@@ -78,11 +78,11 @@ function setupMap(center) {
 
     if (matchingStep) {
       displayInstruction(matchingStep.instruction);
-      steps = steps.filter((step) => step !== matchingStep); // Remove matched step
+      steps = steps.filter((step) => step !== matchingStep); 
     }
   }
 
-  // Simulate movement
+  
   function move(dx, dy) {
     const [lon, lat] = virtualLocation;
     const newLocation = [lon + dx, lat + dy];
@@ -90,16 +90,16 @@ function setupMap(center) {
     checkProximity();
   }
 
-  // Event listeners for arrow controls
+  
   document.getElementById("up").addEventListener("click", () => move(0, 0.001));
   document.getElementById("down").addEventListener("click", () => move(0, -0.001));
   document.getElementById("left").addEventListener("click", () => move(-0.001, 0));
   document.getElementById("right").addEventListener("click", () => move(0.001, 0));
 }
 
-// Calculate distance between two coordinates (Haversine formula)
+
 function haversineDistance(coord1, coord2) {
-  const R = 6371000; // Radius of the Earth in meters
+  const R = 6371000; 
   const toRad = (angle) => (angle * Math.PI) / 180;
 
   const lat1 = toRad(coord1[1]);
@@ -115,7 +115,7 @@ function haversineDistance(coord1, coord2) {
   return R * c;
 }
 
-// Display turn-by-turn instruction
+
 function displayInstruction(instruction) {
   let instructionDiv = document.getElementById("instruction");
   if (!instructionDiv) {
@@ -138,7 +138,7 @@ function displayInstruction(instruction) {
   instructionDiv.textContent = instruction;
 }
 
-// Display list of street names
+
 function displayStreetNames(streetNames) {
   let streetListDiv = document.getElementById("street-list");
   if (!streetListDiv) {
