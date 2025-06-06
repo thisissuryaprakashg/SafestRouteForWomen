@@ -1,39 +1,42 @@
-🚶‍♀️ Safest Route for Women 🌍
+# Safe Path Recommender – Bangalore
 
-Navigate with confidence! Our map application is designed to prioritize safety over speed, ensuring a secure journey every time. Unlike other navigation systems, we take into account multiple safety factors to suggest the best routes. Here’s what makes our navigation stand out:
+This project recommends the **safest walking route** between any two points in Bangalore by analyzing multiple safety-related factors such as crime incidents, CCTV coverage, street lighting, police station proximity, and nightlife activity. Instead of just finding the shortest path, it finds routes that prioritize user safety.
 
-🌟 Features
+---
 
-Safety First Approach: Prioritizes safety over the fastest or shortest route.
+## 🔍 Project Overview
 
-Powered by Mapbox: Utilizing the powerful Mapbox API for detailed and reliable mapping.
+The key idea is to use a graph representation of Bangalore’s street network and modify the edge weights to reflect the safety of each road segment. This way, safer routes may be slightly longer but avoid dangerous or poorly monitored areas.
 
-Dynamic Weights: Routes are adjusted based on real-time and historical data, changing weights dynamically for the safest navigation.
+### How it works:
 
-🗺️ What We Consider
+- **Base graph:** The walking network of Bangalore is extracted from OpenStreetMap and saved as a `.graphml` file.
+- **Safety data:** Various `.geojson` files provide spatial data on crime locations, CCTV cameras, streetlights, police stations, and pubs/nightclubs.
+- **Edge weight modification:**  
+  Each road segment’s weight (originally distance or travel time) is adjusted based on nearby safety factors:
+  - **Risk factors** (like high crime density or nightlife venues at night) increase the edge weight.
+  - **Safety factors** (like CCTV coverage, streetlights, and police proximity) decrease the edge weight.
+  
+This is done by calculating proximity or density scores of these features around each edge, and combining them into a safety score. The original edge weight is multiplied by a function of these scores to produce a modified “risk-aware” weight.
 
-Time of Day 🌙🌞: Routes adapt based on whether it's day or night, considering lighting conditions and other safety factors.
+- **Separate day and night graphs:** Since safety conditions vary by time of day, the project precomputes two versions of the graph — one for daytime and one for nighttime — to reflect different risk profiles.
 
-Street Lighting 💡: Routes are prioritized with well-lit streets to ensure better visibility.
+- **Route calculation:** The safest route is computed by finding the shortest path on the adjusted graph using NetworkX’s shortest path algorithms.
 
-Nearby Pubs & Shops 🍺🛍️: Avoids potentially risky areas, especially in late hours, and takes crowd density into account.
+---
 
-Security Cameras 📷: Gives preference to streets with active surveillance for an added layer of security.
+## 📁 Folder Structure
 
-Crime Statistics 🚔: Incorporates local crime data to avoid areas with a higher risk.
+Place all the following files in the same directory:
 
-Community Feedback 🗣️: Utilizes input from the community to improve the safety rating of routes.
+- `crimes.geojson` — Crime incident locations  
+- `cctv.geojson` — CCTV camera locations  
+- `streetlights.geojson` — Public streetlight locations  
+- `pubs.geojson` — Nightlife venues (pubs, clubs)  
+- `police.geojson` — Police station locations  
+- `bangalore.graphml` — Base road network graph  
+- `day_graph.graphml` — Safety-weighted graph for daytime routing  
+- `night_graph.graphml` — Safety-weighted graph for nighttime routing  
+- `safest_route_map.html` — Generated interactive map showing the safest route
 
-🚀 How It Works
-
-Data Collection: Gathers data from multiple sources like crime reports, street lights, and surveillance cameras.
-
-Dynamic Weighting: Adjusts route priorities based on factors like time of day, local safety, and crowd conditions.
-
-Safe Path Calculation: Uses an algorithm to find the safest route, balancing between safety and efficiency.
-
-Real-Time Updates: Routes are updated dynamically if new safety data becomes available.
-
-🎯 Our Goal
-
-To empower women to travel safely and confidently by providing the most secure route options. We aim to create a safer travel experience by constantly adapting and learning from real-world data.
+---
