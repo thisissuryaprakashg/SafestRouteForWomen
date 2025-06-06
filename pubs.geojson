@@ -1,0 +1,5807 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-20T13:00:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226616436",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2022-11-25",
+        "name": "Rasta Bar",
+        "smoking": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3314847,
+          12.7660792
+        ]
+      },
+      "id": "way/226616436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314668749",
+        "addr:city": "Mysuru",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lobo's Bar and Restaurant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6262834,
+          12.3028841
+        ]
+      },
+      "id": "way/314668749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/348198471",
+        "addr:housenumber": "71",
+        "addr:street": "16th Main Road",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2023-10-15",
+        "name": "Avon Pub",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+91 080 2668 2939",
+        "smoking": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6103122,
+          12.9160905
+        ]
+      },
+      "id": "way/348198471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/348322680",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "#14",
+        "addr:postcode": "560078",
+        "addr:street": "Outer Ring Road, JP Nagar 4th Phase",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date": "2023-10-27",
+        "cuisine": "pub",
+        "name": "Levels Pub",
+        "phone": "+91 9845881144",
+        "website": "https://thelevelspub.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940662,
+          12.9061112
+        ]
+      },
+      "id": "way/348322680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351811154",
+        "amenity": "bar",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6339368,
+          13.0024235
+        ]
+      },
+      "id": "way/351811154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368763184",
+        "addr:city": "Indira Nagar, Bangalore",
+        "addr:housenumber": "1135",
+        "addr:postcode": "560008",
+        "addr:street": "100 Feet Rd, HAL 2nd Stage",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Bumblebee Brauhaus",
+        "operational_status": "closed",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6416349,
+          12.969238
+        ]
+      },
+      "id": "way/368763184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446995814",
+        "amenity": "bar",
+        "name": "Navarang Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5577577,
+          12.9907411
+        ]
+      },
+      "id": "node/446995814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534659750",
+        "addr:city": "Bangalore",
+        "addr:housename": "Jayamahal Hotel",
+        "addr:street": "Jayamahal Road",
+        "amenity": "bar",
+        "name": "Formula III Bar",
+        "opening_hours": "11:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5974721,
+          12.9971601
+        ]
+      },
+      "id": "node/534659750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561201562",
+        "addr:city": "Mangalre",
+        "addr:postcode": "575001",
+        "addr:street": "Hampankatta, Balmatta Rd, Near Don Bosco Hall",
+        "amenity": "pub",
+        "building": "yes",
+        "check_date:opening_hours": "2021-10-03",
+        "description": "WiFi & Full Bar Available",
+        "name": "The Liquid Lounge",
+        "opening_hours": "Mo-Su 10:00-23:30",
+        "outdoor_seating": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8467476,
+          12.8706142
+        ]
+      },
+      "id": "way/561201562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/577020638",
+        "amenity": "bar",
+        "name": "Sangeeth Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5726957,
+          12.9898878
+        ]
+      },
+      "id": "node/577020638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595411389",
+        "amenity": "pub",
+        "name": "Sathya's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6328706,
+          12.925064
+        ]
+      },
+      "id": "node/595411389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638167114",
+        "addr:floor": "13",
+        "addr:housenumber": "84",
+        "addr:street": "MG Road",
+        "amenity": "pub",
+        "check_date": "2024-09-03",
+        "level": "13",
+        "name": "Thirteenth Floor",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6048953,
+          12.9752596
+        ]
+      },
+      "id": "node/638167114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672017071",
+        "amenity": "pub",
+        "building": "yes",
+        "cuisine": "pub",
+        "name": "The Watering Hole",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5154589,
+          12.9264793
+        ]
+      },
+      "id": "way/672017071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701733264",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5233568,
+          13.0368708
+        ]
+      },
+      "id": "node/701733264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/710095029",
+        "addr:street": "4th Main Road",
+        "amenity": "bar",
+        "name": "Domlur Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6371873,
+          12.9643756
+        ]
+      },
+      "id": "node/710095029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798477445",
+        "addr:city": "Kanhangad",
+        "addr:postcode": "671531",
+        "addr:street": "Ennappara",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Toddy Shop Ennapara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1878287,
+          12.3592572
+        ]
+      },
+      "id": "way/798477445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/949085145",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Kerala state bivarage co-op",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3191315,
+          12.1493628
+        ]
+      },
+      "id": "way/949085145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1083025794",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "JK Residency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9927005,
+          12.506429
+        ]
+      },
+      "id": "node/1083025794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1117035056",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Jeeth Bar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8470104,
+          12.8617305
+        ]
+      },
+      "id": "way/1117035056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1154252271",
+        "amenity": "bar",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4645409,
+          12.170049
+        ]
+      },
+      "id": "way/1154252271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182199149",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ANCD",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.602484,
+          12.8970425
+        ]
+      },
+      "id": "way/1182199149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1197417800",
+        "addr:city": "MANGALORE",
+        "addr:postcode": "575002",
+        "addr:street": "Arya Samaja Road",
+        "amenity": "pub",
+        "name": "Froth On Top",
+        "phone": "+91 98444 96293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8518393,
+          12.8735993
+        ]
+      },
+      "id": "node/1197417800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1274328878",
+        "amenity": "bar",
+        "name": "Rendezvous"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6287026,
+          12.9355492
+        ]
+      },
+      "id": "node/1274328878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1318917184",
+        "amenity": "bar",
+        "name": "Shiva Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554477,
+          12.8853969
+        ]
+      },
+      "id": "node/1318917184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375978265",
+        "alt_name": "Jukebox",
+        "amenity": "pub",
+        "name": "The Juke Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6147769,
+          12.936364
+        ]
+      },
+      "id": "node/1375978265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375978270",
+        "amenity": "pub",
+        "name": "Sixtyfour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.614973,
+          12.9366058
+        ]
+      },
+      "id": "node/1375978270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375978280",
+        "amenity": "pub",
+        "name": "Purple Haze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6147839,
+          12.9332689
+        ]
+      },
+      "id": "node/1375978280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420058964",
+        "amenity": "bar",
+        "name": "Roadtrip",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6406718,
+          12.9640379
+        ]
+      },
+      "id": "node/1420058964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463547121",
+        "amenity": "bar",
+        "name": "KC'S Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5172029,
+          12.9368996
+        ]
+      },
+      "id": "node/1463547121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463594776",
+        "amenity": "bar",
+        "name": "Masala",
+        "name:kn": "\u0cae\u0cb8\u0cbe\u0cb2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5509021,
+          12.9100302
+        ]
+      },
+      "id": "node/1463594776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1465650471",
+        "addr:street": "Kor 5th cross",
+        "amenity": "bar",
+        "designation": "Bar cum pub",
+        "name": "Banana Beach bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6207273,
+          12.9365646
+        ]
+      },
+      "id": "node/1465650471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1465655319",
+        "addr:housename": "Filling station",
+        "addr:street": "Koramangala 5th cross",
+        "amenity": "bar;pub;restaurant",
+        "name": "Filling station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6207917,
+          12.9364031
+        ]
+      },
+      "id": "node/1465655319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466628075",
+        "amenity": "bar",
+        "name": "Mookambika Bar& Resturant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.618272,
+          12.9449911
+        ]
+      },
+      "id": "node/1466628075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1468014999",
+        "addr:housenumber": "1st floor",
+        "amenity": "pub",
+        "name": "Madan Pub",
+        "opening_hours": "Fr-Su 00:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.614926,
+          12.935901
+        ]
+      },
+      "id": "node/1468014999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1468540717",
+        "amenity": "bar",
+        "name": "B52 Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6259241,
+          12.9362155
+        ]
+      },
+      "id": "node/1468540717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1469274356",
+        "amenity": "pub",
+        "name": "Sherlock's Pub",
+        "name:kn": "\u0cb6\u0cc6\u0cb0\u0ccd\u200c\u0cb2\u0cbe\u0c95\u0ccd \u0cb9\u0ccb\u0cae\u0ccd\u0cb8\u0ccd \u0cac\u0cbe\u0cb0\u0ccd \u0cb9\u0cbe\u0c97\u0cc1 \u0cb0\u0cc6\u0cb8\u0ccd\u0c9f\u0cca\u0cb0\u0cc6\u0c82\u0c9f\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6150372,
+          12.9946747
+        ]
+      },
+      "id": "node/1469274356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1471928775",
+        "amenity": "pub",
+        "name": "Sun Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5274725,
+          12.9094182
+        ]
+      },
+      "id": "node/1471928775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473885754",
+        "amenity": "pub",
+        "name": "J cubeez",
+        "name:en": "J Cubez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5640113,
+          12.9257822
+        ]
+      },
+      "id": "node/1473885754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1473999150",
+        "amenity": "pub",
+        "name": "Pecos",
+        "start_date": "1989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6072937,
+          12.973736
+        ]
+      },
+      "id": "node/1473999150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474254715",
+        "amenity": "bar",
+        "name": "Salt Edition 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6410529,
+          12.9709206
+        ]
+      },
+      "id": "node/1474254715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474432222",
+        "amenity": "bar",
+        "name": "Manchester United"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6094985,
+          12.9345952
+        ]
+      },
+      "id": "node/1474432222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1614509453",
+        "amenity": "bar",
+        "name": "Opus",
+        "name:kn": "\u0c93\u0caa\u0cb8\u0ccd",
+        "website": "http://www.myopus.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5851079,
+          12.9975797
+        ]
+      },
+      "id": "node/1614509453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1637357652",
+        "alt_name": "The Heritage",
+        "amenity": "bar",
+        "int_name": "The Heritage",
+        "name": "The Heritage",
+        "old_name": "The Heritage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6454853,
+          12.2988029
+        ]
+      },
+      "id": "node/1637357652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642940487",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6940952,
+          12.3276407
+        ]
+      },
+      "id": "node/1642940487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645770927",
+        "alt_name": "Pelican Pub",
+        "amenity": "pub",
+        "int_name": "Pelican Pub",
+        "name": "Pelican Pub",
+        "old_name": "Pelican Pub",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6251578,
+          12.3178359
+        ]
+      },
+      "id": "node/1645770927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645793370",
+        "alt_name": "Cauvery Bar",
+        "amenity": "bar",
+        "int_name": "Cauvery Bar",
+        "name": "Cauvery Bar",
+        "old_name": "Cauvery Bar",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6187893,
+          12.3446084
+        ]
+      },
+      "id": "node/1645793370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657291080",
+        "addr:housename": "pegs and pints",
+        "amenity": "pub",
+        "name": "Pegs and pints"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5653351,
+          12.9244905
+        ]
+      },
+      "id": "node/1657291080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657291081",
+        "addr:housename": "Lakshmi bar",
+        "amenity": "bar",
+        "name": "Lakshmi bar",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5654289,
+          12.9244383
+        ]
+      },
+      "id": "node/1657291081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1681456758",
+        "amenity": "bar",
+        "name": "Indraprastha Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6256594,
+          12.2824439
+        ]
+      },
+      "id": "node/1681456758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686069579",
+        "amenity": "bar",
+        "name": "KTDC Beer Parlour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2097388,
+          12.1094215
+        ]
+      },
+      "id": "node/1686069579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719463997",
+        "amenity": "bar",
+        "name": "S R Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3352375,
+          12.9957432
+        ]
+      },
+      "id": "node/1719463997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1719512648",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3286124,
+          12.9960621
+        ]
+      },
+      "id": "node/1719512648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798138560",
+        "alt_name": "Gusto",
+        "amenity": "pub",
+        "int_name": "Gusto",
+        "name": "Gusto",
+        "old_name": "Gusto",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6163213,
+          12.3070497
+        ]
+      },
+      "id": "node/1798138560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835304318",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "20/2",
+        "addr:postcode": "560001",
+        "addr:street": "Vittal Mallya Road",
+        "amenity": "pub",
+        "contact:instagram": "thebiereclub",
+        "email": "fnb@thebiereclub.com",
+        "microbrewery": "yes",
+        "name": "The Biere Club",
+        "opening_hours": "11:00-23:00",
+        "phone": "+9180 42124383",
+        "smoking": "outside",
+        "website": "http://www.thebiereclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5975559,
+          12.9709587
+        ]
+      },
+      "id": "node/1835304318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1851691005",
+        "addr:postcode": "560001",
+        "addr:street": "Rest House Road",
+        "amenity": "pub",
+        "name": "Guzzlers Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6068869,
+          12.9736858
+        ]
+      },
+      "id": "node/1851691005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894587565",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7377459,
+          12.4155993
+        ]
+      },
+      "id": "node/1894587565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894602077",
+        "amenity": "bar",
+        "name": "MSIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7359226,
+          12.424002
+        ]
+      },
+      "id": "node/1894602077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894622986",
+        "amenity": "bar",
+        "name": "East End"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7449291,
+          12.4176921
+        ]
+      },
+      "id": "node/1894622986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1900763094",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7168766,
+          12.4408022
+        ]
+      },
+      "id": "node/1900763094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923665125",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "298",
+        "addr:postcode": "560038",
+        "addr:street": "100 Feet Road",
+        "amenity": "pub",
+        "check_date": "2023-12-30",
+        "dog": "leashed",
+        "email": "toitblr@toit.in",
+        "int_name": "Toit Brewpub",
+        "microbrewery": "yes",
+        "name": "Toit",
+        "operator": "Toit.",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "pets": "yes",
+        "phone": "+91 901 971 3388",
+        "smoking": "isolated",
+        "website": "https://toit.in/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6406278,
+          12.9794113
+        ]
+      },
+      "id": "node/1923665125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2006133431",
+        "addr:housename": "Embassy",
+        "addr:street": "Jhansi Lakshmibai Road",
+        "alt_name": "Embassy",
+        "amenity": "bar",
+        "designation": "Embassy",
+        "int_name": "Embassy",
+        "name": "Embassy",
+        "name:kn": "\u0c8e\u0c82\u0cac\u0cc6\u0cb8\u0cbf",
+        "old_name": "Embassy",
+        "source": "MYSORE",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6438454,
+          12.3049803
+        ]
+      },
+      "id": "node/2006133431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120454693",
+        "addr:housename": "bnr mansion",
+        "addr:street": "jnguva street",
+        "amenity": "bar",
+        "name": "Bnr Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5846472,
+          12.9683042
+        ]
+      },
+      "id": "node/2120454693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2280258943",
+        "amenity": "bar",
+        "name": "Kadamba Bar",
+        "source": "Self",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5701608,
+          12.9216283
+        ]
+      },
+      "id": "node/2280258943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322728648",
+        "amenity": "pub",
+        "name": "The Pint Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5959821,
+          12.876231
+        ]
+      },
+      "id": "node/2322728648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2364157148",
+        "amenity": "pub",
+        "name": "Cafe Mojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8492338,
+          12.8743129
+        ]
+      },
+      "id": "node/2364157148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2469833989",
+        "amenity": "bar",
+        "name": "Hotel Prashanth Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6085405,
+          12.6606027
+        ]
+      },
+      "id": "node/2469833989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2472323753",
+        "amenity": "pub",
+        "name": "Sadanand",
+        "name:kn": "\u0cb8\u0ca6\u0cbe\u0ca8\u0c82\u0ca6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7998567,
+          12.9895999
+        ]
+      },
+      "id": "node/2472323753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2480869556",
+        "addr:city": "Bangalore",
+        "addr:housename": "Amarjyothi nagar",
+        "addr:postcode": "560040",
+        "addr:street": "Nagarabhavi Road",
+        "amenity": "bar",
+        "name": "New Priya Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5304612,
+          12.9736839
+        ]
+      },
+      "id": "node/2480869556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513569162",
+        "addr:city": "Gandhi Nagar, Bangalore",
+        "addr:housename": "Rajadhani Restaurant",
+        "addr:street": "Subedar Chatram Road",
+        "amenity": "pub",
+        "check_date": "2024-02-29",
+        "name": "Rajadhani Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5750024,
+          12.9787644
+        ]
+      },
+      "id": "node/2513569162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513569163",
+        "addr:city": "Gandhi Nagar, Bangalore",
+        "addr:street": "4th Cross",
+        "amenity": "bar",
+        "name": "Skipper Bar & REstaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5743399,
+          12.9787148
+        ]
+      },
+      "id": "node/2513569163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513569168",
+        "addr:city": "Gandhi Nagar, Bangalore",
+        "addr:street": "4th Cross",
+        "amenity": "bar",
+        "name": "Durga Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739751,
+          12.9786625
+        ]
+      },
+      "id": "node/2513569168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2514705830",
+        "addr:city": "Bangalore",
+        "addr:housename": "Chandra Layout",
+        "addr:street": "4th Main Road",
+        "amenity": "bar",
+        "name": "Chang Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5268678,
+          12.9610189
+        ]
+      },
+      "id": "node/2514705830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2612971803",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6589809,
+          12.311427
+        ]
+      },
+      "id": "node/2612971803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2631157903",
+        "addr:city": "Bangalore",
+        "addr:postcode": "560052",
+        "addr:street": "M V Jayaram Road",
+        "amenity": "pub",
+        "internet_access": "no",
+        "level": "1",
+        "name": "Watson's Pub",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5945632,
+          12.9943998
+        ]
+      },
+      "id": "node/2631157903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2641818345",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "8",
+        "addr:postcode": "560025",
+        "addr:street": "Magrath Road",
+        "amenity": "pub",
+        "level": "4",
+        "microbrewery": "yes",
+        "name": "Arbor Brewing Company",
+        "opening_hours": "12:00-23:30",
+        "phone": "+91 80501 44477",
+        "smoking": "outside",
+        "website": "https://www.arborbrewing.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6109836,
+          12.9703092
+        ]
+      },
+      "id": "node/2641818345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907543445",
+        "amenity": "pub",
+        "name": "Bootleggers",
+        "name:kn": "\u0cac\u0cc2\u0c9f\u0ccd\u200c\u0cb2\u0cc6\u0c97\u0ccd\u0c97\u0cb0\u0ccd\u0cb8\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5974847,
+          12.9712735
+        ]
+      },
+      "id": "node/2907543445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2985825981",
+        "amenity": "bar",
+        "name": "Liquor Paradise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5630344,
+          12.9092276
+        ]
+      },
+      "id": "node/2985825981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3118296968",
+        "amenity": "bar",
+        "name": "Wine Baron",
+        "opening_hours": "10:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5628234,
+          12.9296028
+        ]
+      },
+      "id": "node/3118296968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201690881",
+        "amenity": "bar",
+        "name": "Giri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6580399,
+          12.3105013
+        ]
+      },
+      "id": "node/3201690881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3217567053",
+        "addr:city": "Mysuru",
+        "addr:street": "New Kantharaje Urs Road",
+        "amenity": "bar",
+        "name": "New Ashwini Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6153036,
+          12.295658
+        ]
+      },
+      "id": "node/3217567053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280223481",
+        "amenity": "pub",
+        "name": "Bob's Bar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6412417,
+          12.9671468
+        ]
+      },
+      "id": "node/3280223481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286300926",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "District 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.55478,
+          13.0124022
+        ]
+      },
+      "id": "node/3286300926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327437006",
+        "alt_name": "Purple Haze",
+        "amenity": "pub",
+        "int_name": "Purple Haze",
+        "name": "Purple Haze",
+        "old_name": "Purple Haze",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6168895,
+          12.3382882
+        ]
+      },
+      "id": "node/3327437006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358014463",
+        "amenity": "bar",
+        "name": "Lawns Way Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8186874,
+          12.9803467
+        ]
+      },
+      "id": "node/3358014463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358125286",
+        "amenity": "bar",
+        "name": "Sunil Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8024597,
+          12.9648151
+        ]
+      },
+      "id": "node/3358125286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361712098",
+        "addr:city": "Bangalore",
+        "addr:street": "Vittal Mallya Road",
+        "amenity": "bar",
+        "check_date": "2024-08-19",
+        "name": "Skyye",
+        "outdoor_seating": "yes",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5963921,
+          12.9715333
+        ]
+      },
+      "id": "node/3361712098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370171478",
+        "amenity": "juice_bar",
+        "name": "Kwality Juice Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6391056,
+          12.9821708
+        ]
+      },
+      "id": "node/3370171478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370453171",
+        "addr:housenumber": "58",
+        "amenity": "bar",
+        "name": "Aishwarya Bar N Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6357187,
+          12.9741726
+        ]
+      },
+      "id": "node/3370453171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3403067274",
+        "amenity": "bar",
+        "building": "restaurant",
+        "name": "Sri Nanjundeshwara bar and restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6001886,
+          12.9112404
+        ]
+      },
+      "id": "node/3403067274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458335906",
+        "addr:city": "Bengaluru",
+        "addr:street": "FM Cariappa Road (Residency Road)",
+        "amenity": "pub",
+        "contact:facebook": "bangalorebrewworks",
+        "contact:instagram": "bangalorebrewworks",
+        "microbrewery": "yes",
+        "name": "Bangalore Brew Works",
+        "phone": "+91 97422 11446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6019458,
+          12.9680185
+        ]
+      },
+      "id": "node/3458335906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3671375187",
+        "amenity": "bar",
+        "name": "Gangothri Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6128458,
+          12.919533
+        ]
+      },
+      "id": "node/3671375187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725710401",
+        "addr:street": "100 Feet Road",
+        "amenity": "pub",
+        "name": "H3O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6419066,
+          12.9620032
+        ]
+      },
+      "id": "node/3725710401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725719339",
+        "amenity": "bar",
+        "name": "Ginger Tiger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6410288,
+          12.9690747
+        ]
+      },
+      "id": "node/3725719339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725719353",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "773",
+        "addr:postcode": "560038",
+        "addr:street": "100 Feet Road",
+        "amenity": "pub",
+        "brewery": "various",
+        "microbrewery": "yes",
+        "name": "Vapour",
+        "name:kn": "\u0cb5\u0cc7\u0caa\u0cb0\u0ccd",
+        "opening_hours": "12:00-23:00",
+        "phone": "+91 80 4942 2313",
+        "smoking": "outside",
+        "website": "https://vapour.in/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6411133,
+          12.9694282
+        ]
+      },
+      "id": "node/3725719353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725719355",
+        "addr:street": "100 Feet Road",
+        "amenity": "bar",
+        "name": "Xtream Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6410544,
+          12.9708975
+        ]
+      },
+      "id": "node/3725719355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3725882446",
+        "addr:street": "100 Feet Road( S K Karim Khan Road)",
+        "amenity": "pub",
+        "name": "LOFT 38",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6410321,
+          12.9714296
+        ]
+      },
+      "id": "node/3725882446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727147612",
+        "amenity": "pub",
+        "name": "Aquila Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6412777,
+          12.9651581
+        ]
+      },
+      "id": "node/3727147612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727147615",
+        "amenity": "pub",
+        "name": "21st Amendment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6412101,
+          12.96597
+        ]
+      },
+      "id": "node/3727147615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727148127",
+        "amenity": "pub",
+        "name": "Watson's",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6411618,
+          12.9673327
+        ]
+      },
+      "id": "node/3727148127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3760253379",
+        "addr:postcode": "560001",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "level": "3",
+        "name": "Hoppipola",
+        "name:kn": "\u0cb9\u0cca\u0caa\u0ccd\u0caa\u0cbf\u0caa\u0ccb\u0cb3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6034702,
+          12.9751841
+        ]
+      },
+      "id": "node/3760253379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3760621807",
+        "amenity": "pub",
+        "name": "Lais Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6021776,
+          12.9758164
+        ]
+      },
+      "id": "node/3760621807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761085750",
+        "amenity": "pub",
+        "level": "-1",
+        "name": "Down Town Pub",
+        "name:kn": "\u0ca1\u0ccc\u0ca8\u0ccd \u0c9f\u0ccc\u0ca8\u0ccd \u0caa\u0cac\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6085761,
+          12.9729508
+        ]
+      },
+      "id": "node/3761085750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782893189",
+        "amenity": "bar",
+        "name": "1522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6301111,
+          12.9342864
+        ]
+      },
+      "id": "node/3782893189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3808171448",
+        "amenity": "pub",
+        "level": "0",
+        "name": "Narthaki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6093639,
+          12.9733555
+        ]
+      },
+      "id": "node/3808171448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815215351",
+        "amenity": "pub",
+        "level": "1",
+        "name": "Baywatch",
+        "name:kn": "\u0cac\u0cc7 \u0cb5\u0cbe\u0c9a\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6078626,
+          12.9721037
+        ]
+      },
+      "id": "node/3815215351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3837031331",
+        "amenity": "juice_bar",
+        "name": "Fa Juice Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6357005,
+          12.978327
+        ]
+      },
+      "id": "node/3837031331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3925343992",
+        "amenity": "bar",
+        "name": "Juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2440553,
+          12.3697202
+        ]
+      },
+      "id": "node/3925343992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019452886",
+        "amenity": "bar",
+        "name": "Purple Haze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6167921,
+          12.3380749
+        ]
+      },
+      "id": "node/4019452886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4101994943",
+        "amenity": "pub",
+        "name": "Zucco Restro Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6411945,
+          12.9787019
+        ]
+      },
+      "id": "node/4101994943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122676277",
+        "amenity": "bar",
+        "name": "Beer Joint",
+        "name:kn": "\u0cac\u0cbf\u0caf\u0cb0\u0ccd \u0c9c\u0cbe\u0caf\u0cbf\u0c82\u0c9f\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6364824,
+          12.9815735
+        ]
+      },
+      "id": "node/4122676277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173824529",
+        "amenity": "public_bookcase",
+        "name": "Sapna Book House",
+        "name:kn": "\u0cb8\u0caa\u0ccd\u0ca8 \u0cac\u0cc1\u0c95\u0ccd \u0cb9\u0ccc\u0cb8\u0ccd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5787373,
+          13.0051746
+        ]
+      },
+      "id": "node/4173824529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4252085630",
+        "addr:floor": "4",
+        "addr:street": "Assayee Road",
+        "amenity": "pub",
+        "check_date": "2023-12-30",
+        "level": "4",
+        "name": "Watson's Ulsoor",
+        "smoking": "separated",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6192753,
+          12.9908548
+        ]
+      },
+      "id": "node/4252085630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294187645",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Pingara Restaurant & Bar",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6337008,
+          12.9253813
+        ]
+      },
+      "id": "node/4294187645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322781163",
+        "amenity": "bar",
+        "check_date": "2023-10-08",
+        "name": "Tycoons",
+        "opening_hours:covid19": "closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6383901,
+          12.9701712
+        ]
+      },
+      "id": "node/4322781163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322781164",
+        "amenity": "bar",
+        "check_date": "2024-07-18",
+        "name": "Hangover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6383932,
+          12.9702457
+        ]
+      },
+      "id": "node/4322781164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322794148",
+        "amenity": "bar",
+        "check_date": "2024-10-13",
+        "name": "The Reservoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6392223,
+          12.9702408
+        ]
+      },
+      "id": "node/4322794148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349257997",
+        "amenity": "bar",
+        "name": "Imperial Blue Garden Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5969836,
+          12.9451931
+        ]
+      },
+      "id": "node/4349257997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362770794",
+        "amenity": "bar",
+        "name": "South Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5802736,
+          12.9382297
+        ]
+      },
+      "id": "node/4362770794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422272111",
+        "amenity": "bar",
+        "name": "Ujwal Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5922587,
+          13.0222579
+        ]
+      },
+      "id": "node/4422272111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444197722",
+        "addr:city": "Malleshwaram,2nd Stage,Bangalore",
+        "addr:housenumber": "1522,lepakshi building",
+        "addr:postcode": "560003",
+        "addr:street": "17th Cross Road",
+        "amenity": "pub",
+        "cuisine": "indian",
+        "name": "1522 the Pub",
+        "opening_hours": "11:30-00:00,00:00-01:00",
+        "phone": "080 3075 2607",
+        "takeaway": "yes",
+        "website": "https://www.thepub1522.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5570406,
+          13.0078684
+        ]
+      },
+      "id": "node/4444197722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446352741",
+        "addr:city": "Bangalore",
+        "addr:housenumber": "27",
+        "addr:postcode": "560070",
+        "addr:street": "27th Cross Road",
+        "amenity": "pub",
+        "name": "K27 - The Pub",
+        "opening_hours": "10:30-00:00,00:00-01:00",
+        "phone": "+91 9980097472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5702729,
+          12.9216335
+        ]
+      },
+      "id": "node/4446352741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772964933",
+        "amenity": "bar",
+        "name": "Sutra Spice Resto Bar",
+        "name:en": "Sutra Spice Resto Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6229215,
+          12.9317652
+        ]
+      },
+      "id": "node/4772964933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772964955",
+        "addr:street": "Mahayogi Vemana Road",
+        "amenity": "bar",
+        "name": "Bar Code",
+        "name:en": "Barcode"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6233214,
+          12.9332818
+        ]
+      },
+      "id": "node/4772964955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935027478",
+        "amenity": "pub",
+        "level": "5",
+        "name": "Jimmys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5914708,
+          12.9289101
+        ]
+      },
+      "id": "node/4935027478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975005044",
+        "amenity": "juice_bar",
+        "cuisine": "juice",
+        "name": "Juice Adda",
+        "name:kn": "\u0c9c\u0cc2\u0cb8\u0ccd \u0c85\u0ca1\u0ccd\u0ca1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494692,
+          12.9993056
+        ]
+      },
+      "id": "node/4975005044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5012445078",
+        "amenity": "pub",
+        "name": "Hammered",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5949314,
+          12.9860536
+        ]
+      },
+      "id": "node/5012445078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109210000",
+        "amenity": "bar",
+        "name": "Ashwini Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5242659,
+          12.9400466
+        ]
+      },
+      "id": "node/5109210000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5168571696",
+        "amenity": "pub",
+        "level": "0,1",
+        "name": "3 Page Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6057474,
+          12.9711493
+        ]
+      },
+      "id": "node/5168571696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5174702124",
+        "amenity": "bar",
+        "name": "Not Just Wine & Cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5951454,
+          13.0001729
+        ]
+      },
+      "id": "node/5174702124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198846422",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "House of Commons Rest-o-bar",
+        "name:en": "House of Commons Rest-o-bar",
+        "phone": "+918045128604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6391649,
+          12.9118942
+        ]
+      },
+      "id": "node/5198846422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200633856",
+        "addr:city": "Bengaluru",
+        "amenity": "bar",
+        "level": "3",
+        "name": "Sanctum Pub",
+        "operator": "Elixir Hospitality",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5989089,
+          12.9654654
+        ]
+      },
+      "id": "node/5200633856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5224409071",
+        "amenity": "bar",
+        "name": "Gajalee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8523023,
+          12.8885844
+        ]
+      },
+      "id": "node/5224409071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5250640324",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6569561,
+          12.3102181
+        ]
+      },
+      "id": "node/5250640324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5250657621",
+        "amenity": "bar",
+        "name": "Whiskey Bar",
+        "name:hi": "Whiskey Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6526128,
+          12.3085369
+        ]
+      },
+      "id": "node/5250657621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273078605",
+        "amenity": "pub",
+        "name": "Jimi's Beer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6241477,
+          12.9409559
+        ]
+      },
+      "id": "node/5273078605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304602003",
+        "amenity": "bar",
+        "name": "Millenium Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5525077,
+          12.9389125
+        ]
+      },
+      "id": "node/5304602003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5350092822",
+        "amenity": "bar",
+        "name": "Invitation Restaurant and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6162757,
+          12.9272402
+        ]
+      },
+      "id": "node/5350092822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402224044",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6122941,
+          12.8435732
+        ]
+      },
+      "id": "node/5402224044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402307941",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6151227,
+          12.8429136
+        ]
+      },
+      "id": "node/5402307941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402308125",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5691333,
+          12.9945667
+        ]
+      },
+      "id": "node/5402308125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5402308130",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6153961,
+          12.8428901
+        ]
+      },
+      "id": "node/5402308130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5773107048",
+        "addr:block": "6",
+        "addr:city": "Bangalore",
+        "addr:floor": "4",
+        "addr:place": "Koramangala",
+        "addr:postcode": "560034",
+        "addr:street": "100 Feet Inner Ring Road",
+        "amenity": "bar",
+        "contact:phone": "+9187920 00390",
+        "name": "Bak Bak Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6276388,
+          12.9381482
+        ]
+      },
+      "id": "node/5773107048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195078",
+        "amenity": "pub",
+        "contact:instagram": "theweekly.blr",
+        "name": "The Weekly - Brewhouse & Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6089973,
+          12.9350324
+        ]
+      },
+      "id": "node/5915195078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195079",
+        "amenity": "pub",
+        "name": "Avon Bar And Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6084211,
+          12.9358056
+        ]
+      },
+      "id": "node/5915195079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195080",
+        "amenity": "pub",
+        "name": "Johnny Fox RestoBar & Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6093401,
+          12.9352198
+        ]
+      },
+      "id": "node/5915195080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195081",
+        "amenity": "pub",
+        "name": "Harry's Bar And Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6127469,
+          12.9343841
+        ]
+      },
+      "id": "node/5915195081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195085",
+        "amenity": "pub",
+        "name": "Fenny's Lounge & Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6135481,
+          12.9351887
+        ]
+      },
+      "id": "node/5915195085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195087",
+        "amenity": "pub",
+        "name": "Koramangala Social"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6141769,
+          12.9355957
+        ]
+      },
+      "id": "node/5915195087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915195099",
+        "amenity": "pub",
+        "name": "The Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6244407,
+          12.9407272
+        ]
+      },
+      "id": "node/5915195099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915230905",
+        "amenity": "pub",
+        "name": "Over The Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6236101,
+          12.9344948
+        ]
+      },
+      "id": "node/5915230905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915230912",
+        "amenity": "pub",
+        "name": "Fandom Gillys Redefined"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.623589,
+          12.9333881
+        ]
+      },
+      "id": "node/5915230912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915230913",
+        "amenity": "pub",
+        "name": "Myu Bar at Gilly's Redefined"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.623612,
+          12.9334502
+        ]
+      },
+      "id": "node/5915230913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915230914",
+        "amenity": "pub",
+        "check_date": "2024-08-28",
+        "name": "Brooks and Bonds Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.623433,
+          12.9342194
+        ]
+      },
+      "id": "node/5915230914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247698",
+        "amenity": "pub",
+        "name": "Crawl Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6138214,
+          12.9325612
+        ]
+      },
+      "id": "node/5915247698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247699",
+        "amenity": "pub",
+        "name": "Indigo XP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6140068,
+          12.9328538
+        ]
+      },
+      "id": "node/5915247699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247701",
+        "amenity": "pub",
+        "name": "Gilly's Resto Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6146513,
+          12.9329953
+        ]
+      },
+      "id": "node/5915247701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247702",
+        "amenity": "pub",
+        "name": "Sherlocks Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6160805,
+          12.9342494
+        ]
+      },
+      "id": "node/5915247702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247703",
+        "amenity": "pub",
+        "name": "Happy Brew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6154797,
+          12.9339697
+        ]
+      },
+      "id": "node/5915247703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247704",
+        "amenity": "pub",
+        "name": "Tilt Gastro Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6155709,
+          12.9341449
+        ]
+      },
+      "id": "node/5915247704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915247705",
+        "amenity": "pub",
+        "name": "The Boozy Griffin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6159732,
+          12.9344559
+        ]
+      },
+      "id": "node/5915247705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5915887967",
+        "amenity": "pub",
+        "name": "Bira 91 Taproom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6329642,
+          12.9312594
+        ]
+      },
+      "id": "node/5915887967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6273789287",
+        "amenity": "bar",
+        "name:he": "\u05e0\u05d4\u05e8 \u05d3\u05d9 \u05de\u05d2\u05e2\u05d9\u05dc \u05d5\u05e7\u05d8\u05df \u05d5\u05d9\u05e8\u05d5\u05e7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7549763,
+          12.2797579
+        ]
+      },
+      "id": "node/6273789287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542893148",
+        "addr:city": "Bangalore",
+        "addr:housename": "Upper Ground Floor, Orion Mall",
+        "addr:housenumber": "UG9C",
+        "addr:street": "Dr. Rajkumar Road",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Geist Brewing Taproom",
+        "outdoor_seating": "yes",
+        "website": "https://www.geist.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5553917,
+          13.0115956
+        ]
+      },
+      "id": "node/6542893148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779099235",
+        "amenity": "bar",
+        "name": "Swathi Bars and Restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8949944,
+          12.5213407
+        ]
+      },
+      "id": "node/6779099235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6779122136",
+        "addr:street": "Guttalu road",
+        "amenity": "bar",
+        "name": "SPR Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9053422,
+          12.5287888
+        ]
+      },
+      "id": "node/6779122136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782802496",
+        "amenity": "pub",
+        "check_date": "2024-01-21",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Brother Barley Brewing Company",
+        "opening_hours": "12:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6368606,
+          12.9121766
+        ]
+      },
+      "id": "node/6782802496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6794798811",
+        "amenity": "pub",
+        "name": "Jetlag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5541209,
+          13.0122579
+        ]
+      },
+      "id": "node/6794798811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6815596343",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "3rd & 4th Floor, White Palace Hotel & Convention Centre",
+        "addr:postcode": "560056",
+        "addr:street": "Mysore Road",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Brew Kings",
+        "outdoor_seating": "yes",
+        "website": "https://brewkingsbangalore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.500273,
+          12.9264213
+        ]
+      },
+      "id": "node/6815596343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6917372371",
+        "addr:street": "Kasargod-Kannur-Calicut Highway",
+        "amenity": "bar",
+        "name": "Highway castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0005155,
+          12.5142964
+        ]
+      },
+      "id": "node/6917372371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7116422785",
+        "amenity": "juice_bar",
+        "cuisine": "juice",
+        "name": "Lassi Magic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5351188,
+          12.9662248
+        ]
+      },
+      "id": "node/7116422785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7117361785",
+        "amenity": "bar",
+        "name": "Hotel Roopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6597044,
+          12.3085054
+        ]
+      },
+      "id": "node/7117361785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7156536842",
+        "amenity": "juice_bar",
+        "cuisine": "juice",
+        "name": "Gajanana Juice Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5369361,
+          12.9518186
+        ]
+      },
+      "id": "node/7156536842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7201052049",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "31",
+        "addr:street": "Chord Road",
+        "addr:suburb": "Rajajinagar",
+        "amenity": "bar",
+        "name": "Le Grapes Restobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5508565,
+          12.9964898
+        ]
+      },
+      "id": "node/7201052049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7223089472",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:hamlet": "Subramanya Nagar",
+        "addr:housenumber": "59",
+        "addr:postcode": "560055",
+        "addr:street": "8th Main Road",
+        "addr:suburb": "Rajajinagar",
+        "amenity": "pub",
+        "name": "Geometry Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5569521,
+          13.008108
+        ]
+      },
+      "id": "node/7223089472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7339764896",
+        "addr:city": "KodomBelur",
+        "addr:housenumber": "Eriya",
+        "addr:postcode": "671531",
+        "addr:street": "Hosdurg - Panathur Road",
+        "amenity": "bar",
+        "name": "Eriya Toddy shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.169582,
+          12.3916322
+        ]
+      },
+      "id": "node/7339764896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7466723712",
+        "amenity": "bar",
+        "name": "Archana Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2094009,
+          12.1065565
+        ]
+      },
+      "id": "node/7466723712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503807940",
+        "amenity": "bar",
+        "name": "KTDC beer and wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.214339,
+          12.1059862
+        ]
+      },
+      "id": "node/7503807940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7913548757",
+        "amenity": "bar",
+        "name": "Smoky The sheesha lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6139332,
+          12.9331848
+        ]
+      },
+      "id": "node/7913548757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8280851698",
+        "amenity": "bar",
+        "name": "KTDC Beer and Wine Parlour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1361107,
+          12.2565528
+        ]
+      },
+      "id": "node/8280851698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8772824297",
+        "addr:street": "Cherupuzha kambippalam road",
+        "amenity": "bar",
+        "name": "Elegance bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3628057,
+          12.2746897
+        ]
+      },
+      "id": "node/8772824297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8796509890",
+        "amenity": "public_bookcase",
+        "brand": "Little Free Library",
+        "brand:wikidata": "Q6650101",
+        "brand:wikipedia": "en:Little Free Library",
+        "name": "Korom North Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2318246,
+          12.1399219
+        ]
+      },
+      "id": "node/8796509890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809165774",
+        "amenity": "bar",
+        "name": "toddy bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1450806,
+          12.4570159
+        ]
+      },
+      "id": "node/8809165774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8869753697",
+        "amenity": "bar",
+        "name": "Kallushop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2827051,
+          12.1204462
+        ]
+      },
+      "id": "node/8869753697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932050688",
+        "amenity": "pub",
+        "name": "Club Illusion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1089898,
+          13.0024317
+        ]
+      },
+      "id": "node/8932050688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989627054",
+        "addr:city": "Bengaluru",
+        "addr:housename": "1 Sobha",
+        "addr:postcode": "560001",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "name": "Mirage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6025201,
+          12.9750192
+        ]
+      },
+      "id": "node/8989627054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989627055",
+        "addr:city": "Bengaluru",
+        "addr:housename": "1 Sobha",
+        "addr:postcode": "560001",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "check_date": "2023-05-21",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "RCB Bar and Cafe",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6023766,
+          12.975453
+        ]
+      },
+      "id": "node/8989627055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9178327801",
+        "amenity": "pub",
+        "name": "BLR Brewing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5430553,
+          12.8679234
+        ]
+      },
+      "id": "node/9178327801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9214580905",
+        "amenity": "nightclub",
+        "name": "No Limmits Lounge and Club",
+        "website": "https://nolimmits.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6110248,
+          12.9706287
+        ]
+      },
+      "id": "node/9214580905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9214580910",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Bar Stock Exchange",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6020903,
+          12.9763045
+        ]
+      },
+      "id": "node/9214580910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9466195428",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5719342,
+          13.0284621
+        ]
+      },
+      "id": "node/9466195428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9526527491",
+        "amenity": "bar",
+        "name": "Beer Wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0853964,
+          12.3223807
+        ]
+      },
+      "id": "node/9526527491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536777470",
+        "amenity": "pub",
+        "name": "SkyDeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6075707,
+          12.9748695
+        ]
+      },
+      "id": "node/9536777470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9536777471",
+        "amenity": "pub",
+        "name": "Chin Lung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6066212,
+          12.9718552
+        ]
+      },
+      "id": "node/9536777471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9540035553",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:floor": "0",
+        "addr:housename": "Brigade Solitaire",
+        "addr:housenumber": "67",
+        "addr:postcode": "560025",
+        "addr:state": "Karnataka",
+        "addr:street": "Residency Road",
+        "addr:suburb": "Ashok Nagar",
+        "amenity": "pub",
+        "check_date": "2024-08-19",
+        "contact:facebook": "communiti.in",
+        "contact:instagram": "communiti.in",
+        "diet:vegetarian": "yes",
+        "email": "info@communitiindia.com",
+        "level": "0",
+        "levels": "0;1",
+        "microbrewery": "yes",
+        "name": "Communiti",
+        "opening_hours": "Mo-Th 11:30-01:00; Fr-Su 09:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+91 93421 58585",
+        "smoking": "separated",
+        "website": "https://www.communitiindia.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6082882,
+          12.9724329
+        ]
+      },
+      "id": "node/9540035553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9654252385",
+        "amenity": "bar",
+        "name": "Purab Restobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5078985,
+          12.9718226
+        ]
+      },
+      "id": "node/9654252385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689539841",
+        "amenity": "pub",
+        "name": "Tipsy Bull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6418132,
+          12.9648581
+        ]
+      },
+      "id": "node/9689539841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689539844",
+        "amenity": "pub",
+        "contact:instagram": "swwingblr",
+        "name": "Swwing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6407054,
+          12.9703399
+        ]
+      },
+      "id": "node/9689539844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776394768",
+        "amenity": "bar",
+        "name": "Green Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2321354,
+          12.099645
+        ]
+      },
+      "id": "node/9776394768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776418237",
+        "amenity": "bar",
+        "name": "Vyshak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2105737,
+          12.1127683
+        ]
+      },
+      "id": "node/9776418237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9811371638",
+        "amenity": "pub",
+        "name": "Night Owl Sky Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6199867,
+          12.9750407
+        ]
+      },
+      "id": "node/9811371638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9904130024",
+        "amenity": "pub",
+        "name": "LIT Gastropub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5835086,
+          12.9200203
+        ]
+      },
+      "id": "node/9904130024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9954981018",
+        "amenity": "pub",
+        "name": "Le Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6070067,
+          12.9736229
+        ]
+      },
+      "id": "node/9954981018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9954981019",
+        "amenity": "nightclub",
+        "name": "Brigade Blues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6070848,
+          12.9736268
+        ]
+      },
+      "id": "node/9954981019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10032026860",
+        "amenity": "bar",
+        "contact:instagram": "meterbar.official",
+        "name": "Meter Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6011683,
+          12.9074857
+        ]
+      },
+      "id": "node/10032026860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047410420",
+        "amenity": "bar",
+        "name": "Sixtyy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6254608,
+          12.9400354
+        ]
+      },
+      "id": "node/10047410420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068956763",
+        "amenity": "pub",
+        "name": "Drunklings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6210123,
+          12.9334577
+        ]
+      },
+      "id": "node/10068956763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10101174019",
+        "amenity": "bar",
+        "name": "Madhura Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6231072,
+          12.9509055
+        ]
+      },
+      "id": "node/10101174019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10114201658",
+        "addr:city": "Ejipura",
+        "addr:district": "Bengaluru",
+        "addr:housenumber": "14",
+        "addr:postcode": "560095",
+        "addr:street": "Patel Narayana Reddy Layout",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "diet:non-vegetarian": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "connect@frothytales.com",
+        "level": "1-3",
+        "microbrewery": "yes",
+        "mobile": "09108180000",
+        "name": "The Bier Library",
+        "opening_hours": "Mo-Su 12:00-1:00",
+        "website": "https://www.thebierlibrary.in/",
+        "website:menu": "https://www.thebierlibrary.in/copy-of-beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6264312,
+          12.9389146
+        ]
+      },
+      "id": "node/10114201658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10116658729",
+        "amenity": "bar",
+        "name": "V.S.Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6234929,
+          12.9507135
+        ]
+      },
+      "id": "node/10116658729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10116667435",
+        "amenity": "bar",
+        "name": "Lakshmi Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6239594,
+          12.9505916
+        ]
+      },
+      "id": "node/10116667435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139996736",
+        "addr:floor": "4",
+        "amenity": "pub",
+        "check_date": "2023-12-30",
+        "level": "4",
+        "name": "Daddy",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6399613,
+          12.9699891
+        ]
+      },
+      "id": "node/10139996736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215066518",
+        "amenity": "bar",
+        "name": "Suzy Q by 1522",
+        "website": "http://suzyq.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5969019,
+          12.9837622
+        ]
+      },
+      "id": "node/10215066518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216203915",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Byg Brewski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5487874,
+          13.0247023
+        ]
+      },
+      "id": "node/10216203915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264419609",
+        "addr:housenumber": "12345",
+        "addr:postcode": "3468",
+        "addr:street": "Badiyadka -Mulleria Road",
+        "amenity": "bar",
+        "cuisine": "african",
+        "internet_access": "wlan",
+        "name": "Kabachi lounge",
+        "opening_hours": "24/7",
+        "phone": "258598",
+        "website": "http://Www.kabachi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1204452,
+          12.573058
+        ]
+      },
+      "id": "node/10264419609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279727350",
+        "amenity": "pub",
+        "level": "10",
+        "microbrewery": "yes",
+        "name": "Alchemy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5985652,
+          12.9658984
+        ]
+      },
+      "id": "node/10279727350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280759751",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "7 Rivers Brewing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6197399,
+          12.9733385
+        ]
+      },
+      "id": "node/10280759751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280759756",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:postcode": "560001",
+        "addr:street": "Brigade Road",
+        "addr:suburb": "Ashok Nagar",
+        "amenity": "pub",
+        "contact:instagram": "shakesbierre",
+        "level": "5",
+        "microbrewery": "yes",
+        "name": "Shakesbierre",
+        "opening_hours": "12:00-00:00",
+        "phone": "+91 9614959959",
+        "survey:date": "2023-09-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6073508,
+          12.9709992
+        ]
+      },
+      "id": "node/10280759756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280759757",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:floor": "2",
+        "addr:housenumber": "67",
+        "addr:postcode": "560025",
+        "addr:state": "Karnataka",
+        "addr:street": "Residency Road",
+        "addr:suburb": "Ashok Nagar",
+        "amenity": "pub",
+        "check_date": "2024-08-19",
+        "level": "2",
+        "microbrewery": "yes",
+        "name": "We: Neighbourhood",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6083737,
+          12.9722311
+        ]
+      },
+      "id": "node/10280759757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280775106",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Mac's Brewhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6405874,
+          12.9802975
+        ]
+      },
+      "id": "node/10280775106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280775107",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Murphy\u2019s Brewhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6396728,
+          12.9538209
+        ]
+      },
+      "id": "node/10280775107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280790807",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "18/1",
+        "addr:postcode": "560008",
+        "addr:street": "Cambridge Road",
+        "addr:suburb": "Halasuru",
+        "amenity": "pub",
+        "contact:instagram": "adda1522blr",
+        "email": "adda1522blr@gmail.com",
+        "mobile": "+919164441522",
+        "name": "ADDA 1522",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+919916661522",
+        "website": "https://adda1522.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6265299,
+          12.9725047
+        ]
+      },
+      "id": "node/10280790807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280790808",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Jamming Goat 3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5897944,
+          12.9061131
+        ]
+      },
+      "id": "node/10280790808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280801512",
+        "amenity": "pub",
+        "contact:instagram": "fcafebyftv.east.blr",
+        "microbrewery": "yes",
+        "name": "F Cafe by FashionTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6416053,
+          12.9552691
+        ]
+      },
+      "id": "node/10280801512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280801513",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Big Barrel Brewpub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5079079,
+          12.9040621
+        ]
+      },
+      "id": "node/10280801513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295397883",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:housenumber": "39",
+        "addr:postcode": "560001",
+        "addr:street": "St. Mark's Road",
+        "addr:suburb": "Shanthala Nagar",
+        "amenity": "bar",
+        "delivery": "no",
+        "name": "Koshy's Jewel Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6014915,
+          12.9757601
+        ]
+      },
+      "id": "node/10295397883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10296378589",
+        "amenity": "pub",
+        "check_date": "2023-07-08",
+        "name": "Hammered",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6403192,
+          12.924028
+        ]
+      },
+      "id": "node/10296378589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10296638734",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:hamlet": "Ganganagar",
+        "addr:housenumber": "8",
+        "addr:postcode": "560032",
+        "addr:street": "Bellary Road",
+        "amenity": "bar",
+        "contact:facebook": "CopitasBengaluru",
+        "contact:instagram": "copitasbengaluru",
+        "email": "copitas.bng@fourseasons.com",
+        "level": "21",
+        "name": "Copitas",
+        "opening_hours": "Tu-Su 17:00-01:00",
+        "phone": "96456 69697",
+        "website": "https://www.fourseasons.com/bengaluru/dining/lounges/copitas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5852802,
+          13.0191702
+        ]
+      },
+      "id": "node/10296638734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10297733467",
+        "amenity": "bar",
+        "name": "Picnic Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5629873,
+          13.00956
+        ]
+      },
+      "id": "node/10297733467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302647644",
+        "amenity": "bar",
+        "name": "Chin Lung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5705549,
+          13.029998
+        ]
+      },
+      "id": "node/10302647644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302647646",
+        "amenity": "bar",
+        "name": "Chapter One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5694874,
+          13.0324962
+        ]
+      },
+      "id": "node/10302647646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302647647",
+        "amenity": "pub",
+        "name": "1522 - The Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5691722,
+          13.0329535
+        ]
+      },
+      "id": "node/10302647647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302658788",
+        "amenity": "pub",
+        "name": "Tipsy Bull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6158695,
+          12.9340979
+        ]
+      },
+      "id": "node/10302658788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303872108",
+        "amenity": "pub",
+        "check_date": "2023-01-02",
+        "name": "Sapthagiri Bar & Restaurant",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5532496,
+          13.0013824
+        ]
+      },
+      "id": "node/10303872108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10731191003",
+        "amenity": "pub",
+        "name": "Sherlocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.639568,
+          13.0229947
+        ]
+      },
+      "id": "node/10731191003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10742019260",
+        "amenity": "bar",
+        "name": "Prashanth Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8333189,
+          12.8758187
+        ]
+      },
+      "id": "node/10742019260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763481596",
+        "air_conditioning": "no",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Plan B",
+        "outdoor_seating": "no",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5636738,
+          12.980886
+        ]
+      },
+      "id": "node/10763481596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10773734688",
+        "amenity": "bar",
+        "name": "Tow Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8337068,
+          12.8752493
+        ]
+      },
+      "id": "node/10773734688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10833805497",
+        "addr:city": "Bangalore",
+        "addr:country": "IN",
+        "addr:hamlet": "Shanthala Nagar",
+        "addr:housename": "Forum Rex Walk",
+        "addr:housenumber": "171-172",
+        "addr:postcode": "560001",
+        "addr:street": "Brigade Road",
+        "addr:suburb": "Ashok Nagar",
+        "amenity": "bar",
+        "check_date": "2024-11-24",
+        "contact:instagram": "pangeo_blr",
+        "level": "4",
+        "name": "Pangeo",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "phone": "+91 96076 95555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6062705,
+          12.9729733
+        ]
+      },
+      "id": "node/10833805497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10853180824",
+        "addr:district": "banglore",
+        "amenity": "bar",
+        "brewery": "yes",
+        "min_age": "18",
+        "name": "New Friends Restaurant",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.612333,
+          12.9167576
+        ]
+      },
+      "id": "node/10853180824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10924790335",
+        "amenity": "bar",
+        "name": "Chin Lung Resto Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6320308,
+          12.9318674
+        ]
+      },
+      "id": "node/10924790335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10944076080",
+        "amenity": "bar",
+        "name": "1522 Pub",
+        "website": "https://thepub1522.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5157033,
+          12.9317722
+        ]
+      },
+      "id": "node/10944076080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061435985",
+        "amenity": "bar",
+        "name": "The Burrow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5808621,
+          12.9847784
+        ]
+      },
+      "id": "node/11061435985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061437779",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "ToyBoy",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5636337,
+          12.9814502
+        ]
+      },
+      "id": "node/11061437779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061437780",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Badmaash",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563655,
+          12.9811665
+        ]
+      },
+      "id": "node/11061437780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11073693560",
+        "addr:city": "Mysuru",
+        "addr:district": "Vijayanagar 1st Stage",
+        "addr:postcode": "570017",
+        "addr:street": "Hunsur Road",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Pegs & Kegs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6108479,
+          12.3258621
+        ]
+      },
+      "id": "node/11073693560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11096390257",
+        "amenity": "pub",
+        "name": "Zoey's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6216574,
+          12.9361263
+        ]
+      },
+      "id": "node/11096390257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11096390287",
+        "amenity": "pub",
+        "name": "Baadshah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6157354,
+          12.934246
+        ]
+      },
+      "id": "node/11096390287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11096397020",
+        "amenity": "pub",
+        "contact:instagram": "biergartenbangalore",
+        "cuisine": "pizza;regional;sandwich;burger",
+        "delivery": "no",
+        "name": "Biergarten Brewery & Kitchen",
+        "smoking": "isolated",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6141153,
+          12.933443
+        ]
+      },
+      "id": "node/11096397020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11096782357",
+        "amenity": "bar",
+        "name": "North Wind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5814836,
+          12.9981862
+        ]
+      },
+      "id": "node/11096782357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11102370549",
+        "amenity": "pub",
+        "name": "plan b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6063282,
+          12.9696185
+        ]
+      },
+      "id": "node/11102370549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11126837817",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "We:Neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6325501,
+          13.0008022
+        ]
+      },
+      "id": "node/11126837817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11129173168",
+        "access": "customers",
+        "amenity": "pub",
+        "name": "Hunter's Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8903642,
+          12.3241987
+        ]
+      },
+      "id": "node/11129173168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183618458",
+        "amenity": "pub",
+        "check_date": "2023-09-11",
+        "level": "0;1",
+        "microbrewery": "yes",
+        "name": "Indian Biere House",
+        "opening_hours": "12:00-01:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5895222,
+          12.9060628
+        ]
+      },
+      "id": "node/11183618458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188703538",
+        "amenity": "pub",
+        "contact:instagram": "julietblr_",
+        "name": "Juliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6203662,
+          12.9738038
+        ]
+      },
+      "id": "node/11188703538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188703539",
+        "amenity": "pub",
+        "contact:instagram": "twomoonsblr",
+        "name": "Two Moons",
+        "phone": "+91 96203 47095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6203595,
+          12.9731869
+        ]
+      },
+      "id": "node/11188703539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188703540",
+        "amenity": "pub",
+        "name": "One8 Commune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5992998,
+          12.9762364
+        ]
+      },
+      "id": "node/11188703540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188703541",
+        "amenity": "pub",
+        "contact:instagram": "minxblr",
+        "name": "Minx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6203608,
+          12.973528
+        ]
+      },
+      "id": "node/11188703541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188703544",
+        "alt_name": "Spirit Forward",
+        "amenity": "pub",
+        "contact:instagram": "barspiritforward.blr",
+        "name": "BarSpiritForward",
+        "phone": "+917795654575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5995482,
+          12.9748074
+        ]
+      },
+      "id": "node/11188703544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11215576567",
+        "addr:floor": "2",
+        "amenity": "pub",
+        "check_date": "2023-12-30",
+        "level": "3",
+        "name": "Monkey Bar",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "isolated",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6029158,
+          12.9751472
+        ]
+      },
+      "id": "node/11215576567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11245019773",
+        "amenity": "pub",
+        "check_date": "2023-10-07",
+        "name": "Buffalo Wild Wings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6409965,
+          12.9803251
+        ]
+      },
+      "id": "node/11245019773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11250739211",
+        "amenity": "pub",
+        "name": "Catchup Pub and Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6331202,
+          12.9126085
+        ]
+      },
+      "id": "node/11250739211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11279447619",
+        "amenity": "bar",
+        "name": "GULP",
+        "name:kn": "\u0cb8\u0cb0\u0ccd\u0c95\u0cbe\u0cb0\u0cbf \u0c89\u0cb0\u0ccd\u0ca6\u0cc1 \u0caa\u0ccd\u0cb0\u0cbe\u0ca5\u0cae\u0cbf\u0c95 \u0cb6\u0cbe\u0cb2\u0cc6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.551074,
+          12.9250501
+        ]
+      },
+      "id": "node/11279447619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11294646342",
+        "amenity": "public_bath",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5927568,
+          12.936353
+        ]
+      },
+      "id": "node/11294646342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11295513159",
+        "amenity": "bar",
+        "name": "Boom Rang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6158391,
+          12.9362753
+        ]
+      },
+      "id": "node/11295513159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11297561942",
+        "amenity": "pub",
+        "name": "Beer Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0994458,
+          13.0016231
+        ]
+      },
+      "id": "node/11297561942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11302031532",
+        "amenity": "bar",
+        "name": "Barrel House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5953714,
+          12.8767868
+        ]
+      },
+      "id": "node/11302031532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11303671252",
+        "amenity": "pub",
+        "name": "1522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5758493,
+          12.9062943
+        ]
+      },
+      "id": "node/11303671252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11303696506",
+        "addr:housenumber": "601",
+        "addr:postcode": "560078",
+        "addr:street": "Outer Ring Road",
+        "amenity": "pub",
+        "name": "Tipsy Bull",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "phone": "+91 88844 42009",
+        "website": "https://tipsybull.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5775686,
+          12.9063819
+        ]
+      },
+      "id": "node/11303696506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11303728955",
+        "amenity": "pub",
+        "check_date": "2023-11-01",
+        "name": "The Scene Craft Kitchen & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5805215,
+          12.9066836
+        ]
+      },
+      "id": "node/11303728955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11309805442",
+        "amenity": "bar",
+        "check_date": "2023-11-03",
+        "name": "Stone Street Kitchen and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6160669,
+          12.9159084
+        ]
+      },
+      "id": "node/11309805442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11340825292",
+        "amenity": "pub",
+        "name": "Kadamba Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1040076,
+          13.010367
+        ]
+      },
+      "id": "node/11340825292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11340825300",
+        "amenity": "bar",
+        "name": "G.D Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1050988,
+          13.0108258
+        ]
+      },
+      "id": "node/11340825300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11396013061",
+        "amenity": "pub",
+        "name": "Magique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.626955,
+          12.9376704
+        ]
+      },
+      "id": "node/11396013061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11416184412",
+        "addr:housenumber": "210",
+        "addr:street": "1st Main Road",
+        "amenity": "bar",
+        "check_date": "2023-12-14",
+        "contact:instagram": "https://www.instagram.com/soka_blr",
+        "name": "Soka",
+        "phone": "+91 93530 45053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6383823,
+          12.9650441
+        ]
+      },
+      "id": "node/11416184412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11463203511",
+        "amenity": "pub",
+        "name": "Jamming Goat 3.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6417769,
+          12.965194
+        ]
+      },
+      "id": "node/11463203511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11472852235",
+        "amenity": "bar",
+        "check_date": "2023-12-31",
+        "name": "Shiva Shakti Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6187683,
+          13.0001684
+        ]
+      },
+      "id": "node/11472852235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11476074406",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "27",
+        "addr:postcode": "560001",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "check_date": "2024-09-05",
+        "contact:instagram": "klingbrewery",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Kling Brewery",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.klingbreweries.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6045006,
+          12.9749375
+        ]
+      },
+      "id": "node/11476074406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11503032066",
+        "amenity": "pub",
+        "check_date": "2024-01-09",
+        "name": "The Weekly Brewhouse and Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6088557,
+          12.9351187
+        ]
+      },
+      "id": "node/11503032066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11534777958",
+        "amenity": "bar",
+        "check_date": "2024-01-20",
+        "contact:instagram": "https://www.instagram.com/mykos.bangalore",
+        "name": "Mykos Craft Kitchen & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5997833,
+          12.8979573
+        ]
+      },
+      "id": "node/11534777958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11557028551",
+        "addr:floor": "G",
+        "addr:housenumber": "105",
+        "addr:street": "Kengal Hanumanthaiah Road",
+        "amenity": "bar",
+        "check_date": "2024-01-29",
+        "contact:instagram": "https://www.instagram.com/wineinprogressblr",
+        "level": "0",
+        "name": "Wine In Progress",
+        "opening_hours": "17:00-23:00",
+        "start_date": "2024-01-31",
+        "website": "https://wip.thecourtyard.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5929147,
+          12.9584724
+        ]
+      },
+      "id": "node/11557028551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626785030",
+        "amenity": "pub",
+        "check_date": "2024-02-15",
+        "name": "Hopshaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5851267,
+          13.0192846
+        ]
+      },
+      "id": "node/11626785030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11642174955",
+        "addr:city": "Bengaluru",
+        "addr:district": "Bengaluru Urban",
+        "addr:postcode": "560095",
+        "amenity": "pub",
+        "dog": "leashed",
+        "name": "The Reservoire",
+        "pets": "yes",
+        "phone": "+919148909148",
+        "website": "https://www.thereservoire.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6222441,
+          12.9333912
+        ]
+      },
+      "id": "node/11642174955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11659529326",
+        "air_conditioning": "yes",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "check_date": "2024-02-24",
+        "internet_access": "no",
+        "name": "Talk of The Town",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "separated",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5771411,
+          12.9771364
+        ]
+      },
+      "id": "node/11659529326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11677179262",
+        "amenity": "bar",
+        "check_date": "2024-02-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5753444,
+          12.9776633
+        ]
+      },
+      "id": "node/11677179262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11681416533",
+        "amenity": "pub",
+        "description": "Bierre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.660609,
+          12.3089775
+        ]
+      },
+      "id": "node/11681416533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11681947667",
+        "amenity": "bar",
+        "check_date": "2024-03-01",
+        "name": "MRP Kick Tonic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5754648,
+          12.9773711
+        ]
+      },
+      "id": "node/11681947667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11681984876",
+        "amenity": "bar",
+        "check_date": "2024-03-01",
+        "name": "Tushar Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5758997,
+          12.976119
+        ]
+      },
+      "id": "node/11681984876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11684876156",
+        "amenity": "bar",
+        "check_date": "2024-03-02",
+        "name": "Vijayalakshmi Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5535962,
+          13.0219037
+        ]
+      },
+      "id": "node/11684876156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11699311583",
+        "amenity": "bar",
+        "check_date": "2024-03-07",
+        "internet_access": "no",
+        "name": "S.G.R Bar & Restaurant",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.629448,
+          12.9783532
+        ]
+      },
+      "id": "node/11699311583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11708674467",
+        "amenity": "bar",
+        "check_date": "2024-03-09",
+        "internet_access": "no",
+        "name": "MS Corner Bar & Restaurant",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6290504,
+          12.978586
+        ]
+      },
+      "id": "node/11708674467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11758069169",
+        "amenity": "pub",
+        "name": "URU Brewpark",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6009323,
+          12.9057288
+        ]
+      },
+      "id": "node/11758069169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11881863435",
+        "amenity": "pub",
+        "name": "Sherlock's Lounge & Kitchen, Nagarbhavi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5191866,
+          12.9583032
+        ]
+      },
+      "id": "node/11881863435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11897080273",
+        "addr:street": "Church Street",
+        "amenity": "bar",
+        "name": "Coco's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6042445,
+          12.9752985
+        ]
+      },
+      "id": "node/11897080273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11897302869",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Easy Tiger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6072198,
+          12.9743666
+        ]
+      },
+      "id": "node/11897302869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11942373757",
+        "addr:floor": "G",
+        "amenity": "bar",
+        "check_date": "2024-05-29",
+        "level": "0",
+        "name": "Ravi Bar and Restaurant",
+        "name:en": "Ravi Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5268567,
+          12.9502373
+        ]
+      },
+      "id": "node/11942373757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11953259366",
+        "addr:city": "Bangalore",
+        "addr:district": "Bengaluru Urban",
+        "addr:postcode": "560033",
+        "addr:street": "Banaswadi Road",
+        "amenity": "pub",
+        "brewery": "various",
+        "level": "2",
+        "microbrewery": "yes",
+        "mobile": "+91-9513649744",
+        "name": "We Neighborhood Banaswadi",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:upi": "yes",
+        "smoking": "isolated",
+        "website": "https://weneighborhood.in/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6327085,
+          13.0016791
+        ]
+      },
+      "id": "node/11953259366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11968859178",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:housenumber": "749",
+        "addr:postcode": "560034",
+        "addr:street": "80 Feet Road",
+        "addr:suburb": "Koramangala",
+        "amenity": "bar",
+        "contact:instagram": "pbbunnybar",
+        "name": "Bunny Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6307088,
+          12.9331176
+        ]
+      },
+      "id": "node/11968859178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11982395423",
+        "amenity": "bar",
+        "check_date": "2024-06-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5816375,
+          12.9982738
+        ]
+      },
+      "id": "node/11982395423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11982451439",
+        "amenity": "bar",
+        "check_date": "2024-06-15",
+        "name": "Shift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6388316,
+          12.9118361
+        ]
+      },
+      "id": "node/11982451439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12061267354",
+        "addr:housenumber": "1081",
+        "addr:street": "12th Main Road",
+        "amenity": "pub",
+        "check_date": "2024-07-18",
+        "name": "Jimi's",
+        "opening_hours": "11:00-24:00",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6385178,
+          12.9702381
+        ]
+      },
+      "id": "node/12061267354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064153963",
+        "addr:city": "Bengaluru",
+        "addr:country": "IN",
+        "addr:postcode": "560094",
+        "addr:street": "Sanjay Nagar Main Road",
+        "addr:suburb": "Sanjay Nagar",
+        "amenity": "pub",
+        "contact:instagram": "toroblr",
+        "delivery": "yes",
+        "name": "Toro Brew House & Kitchen Zozo",
+        "phone": "+91 9900005230",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.577408,
+          13.0315097
+        ]
+      },
+      "id": "node/12064153963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12083603347",
+        "amenity": "bar",
+        "name": "The Fixx Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6316027,
+          12.9322948
+        ]
+      },
+      "id": "node/12083603347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12102864716",
+        "amenity": "pub",
+        "name": "The Palms Brew & Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5810732,
+          12.8963113
+        ]
+      },
+      "id": "node/12102864716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12103968909",
+        "amenity": "bar",
+        "check_date": "2024-08-11",
+        "name": "Srinivasa Bar & Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5781651,
+          12.9991112
+        ]
+      },
+      "id": "node/12103968909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12106532161",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "309",
+        "addr:postcode": "560078",
+        "addr:street": "Outer Ring Road",
+        "amenity": "bar",
+        "level": "3,4",
+        "name": "Bottle Breacher Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5930541,
+          12.9060614
+        ]
+      },
+      "id": "node/12106532161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12145301149",
+        "amenity": "pub",
+        "name": "Chin Lung Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6416694,
+          12.9692698
+        ]
+      },
+      "id": "node/12145301149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163674586",
+        "addr:floor": "4",
+        "amenity": "bar",
+        "check_date": "2024-09-08",
+        "level": "4",
+        "name": "Take Off",
+        "name:en": "Take Off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5281158,
+          12.9610487
+        ]
+      },
+      "id": "node/12163674586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12208562952",
+        "amenity": "bar",
+        "name": "Siren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5975319,
+          12.9708332
+        ]
+      },
+      "id": "node/12208562952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12218134254",
+        "addr:city": "Bengaluru",
+        "addr:housenumber": "84/1",
+        "addr:postcode": "560076",
+        "addr:street": "Bannerghatta Road, main road",
+        "amenity": "bar",
+        "name": "Miss & Mrs  India's first ever women only Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5964848,
+          12.8859507
+        ]
+      },
+      "id": "node/12218134254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12238345882",
+        "amenity": "pub",
+        "name": "House of commons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6388252,
+          12.9118905
+        ]
+      },
+      "id": "node/12238345882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12290419101",
+        "amenity": "bar",
+        "name": "The Pump House",
+        "opening_hours": "Mo-Su 12:00-00:30",
+        "phone": "+91 96061 27666",
+        "website": "https://thepumphouse.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58214,
+          12.9065813
+        ]
+      },
+      "id": "node/12290419101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12320273044",
+        "addr:housenumber": "745",
+        "addr:street": "Aurobindo Marg (24th Main)",
+        "amenity": "pub",
+        "check_date": "2024-11-07",
+        "name": "Taproom by Sherlock's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5852067,
+          12.9060286
+        ]
+      },
+      "id": "node/12320273044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12379077731",
+        "addr:city": "Bengaluru",
+        "addr:floor": "3",
+        "addr:postcode": "560078",
+        "addr:street": "Outer Ring Road",
+        "addr:suburb": "JP Nagar",
+        "amenity": "bar",
+        "name": "Jollygunj",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5979725,
+          12.9068713
+        ]
+      },
+      "id": "node/12379077731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12395928077",
+        "addr:city": "Bengaluru",
+        "addr:street": "Outer Ring Road",
+        "addr:suburb": "JP Nagar",
+        "amenity": "bar",
+        "name": "Bricks Bar And Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5967668,
+          12.9065183
+        ]
+      },
+      "id": "node/12395928077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12395928080",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "contact:instagram": "ironhill_kanakapuraroad",
+        "craft": "brewery",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Iron Hill Bengaluru",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "separated",
+        "toilets": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5620496,
+          12.8873851
+        ]
+      },
+      "id": "node/12395928080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12395928083",
+        "addr:city": "Bengaluru",
+        "addr:floor": "4",
+        "addr:street": "Mahatma Gandhi Road",
+        "addr:suburb": "Ashok Nagar",
+        "amenity": "bar",
+        "contact:instagram": "lumara.blr",
+        "level": "4",
+        "name": "Lumara",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6204038,
+          12.9724525
+        ]
+      },
+      "id": "node/12395928083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12422943857",
+        "amenity": "nightclub",
+        "name": "Kitty Ko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5818658,
+          12.9919751
+        ]
+      },
+      "id": "node/12422943857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12422943858",
+        "amenity": "bar",
+        "name": "Sutra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5818202,
+          12.9923293
+        ]
+      },
+      "id": "node/12422943858"
+    }
+  ]
+}
